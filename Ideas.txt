@@ -1,0 +1,1 @@
+Clock : Clicking the clock will open your agenda with the closest activity schedulled .
